@@ -1,12 +1,16 @@
-# H1 bonezegei v 0.1
+# bonezegei
+#### Version 0.01
 
-This is My first repository
+###### This Repository will serve as addition source of information to the projects created in my website
 
-visit https://bonezegei.com to explore more projects and tutorials.
-visit https://play.bonezegei.com to explore my developed games
-to support my project visit https://bonezegei.com/support
+***
+### For More Information 
+###### Visit [Bonezegei Home Website](https://bonezegei.com) to explore more projects and tutorials.
+###### If you want to explore Programs Games and Application developed for deifferent platforms visit  [Bonezegei Play](https://bonezegei.com) 
+###### To support my project visit [Support Bonezegei](https://bonezegei.com/support.php) 
 
 
-
-bonezegei is owned and manage by Jofel Batutay
+***
+### About Bonezegei
+bonezegei is owned and manage by [Jofel Batutay](https://www.linkedin.com/in/jofel-batutay-63737415b/)
 
