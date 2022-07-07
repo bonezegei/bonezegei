@@ -5,12 +5,14 @@
 
 ***
 ### For More Information 
-###### Visit [Bonezegei Home Website](https://bonezegei.com) to explore more projects and tutorials.
-###### If you want to explore Programs Games and Application developed for deifferent platforms visit  [Bonezegei Play](https://bonezegei.com) 
-###### To support my project visit [Support Bonezegei](https://bonezegei.com/support.php) 
+###### [Bonezegei Home Website](https://bonezegei.com) to explore the variety of projects and tutorials.
+###### [Bonezegei Play](https://play.bonezegei.com) If you want to explore Programs Games and Application developed for deifferent platforms. 
+###### [Bonezegei Learn](https://learn.bonezegei.com) If you want to learn basic electronics and programming for embedded systems. 
+###### [Bonezegei Discover](https://learn.bonezegei.com) If you want to explore different project ideas.
+###### [Support Bonezegei](https://bonezegei.com/support.php) to support my projects.
 
 ***
-[![IMAGE ALT TEXT HERE](https://bonezegei.com/resources/logo/social/youtube.png)](https://youtube.com/channel/UCZRRuP-U0oWVoQA5-WmQbtA)
+###### [Bonezegei Youtube Channel](https://youtube.com/channel/UCZRRuP-U0oWVoQA5-WmQbtA) watch my videos here.
 ***
 ### About Bonezegei
 bonezegei is owned and manage by [Jofel Batutay](https://www.linkedin.com/in/jofel-batutay-63737415b/)
