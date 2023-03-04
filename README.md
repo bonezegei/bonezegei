@@ -1,5 +1,5 @@
 # bonezegei
-## Unlock the joy of coding and play your way to endless possibilities
+## "Unlock the joy of coding and play your way to endless possibilities"
 
 ###### This Repository will serve as addition source of information to the projects created in my website
 
