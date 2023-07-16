@@ -4,8 +4,12 @@ This repository is created as a hub for embedded system enthusiasts, developers,
 
 visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 # Repositories
-
-
+### For Arduino IDE (Libaries)
+| No | Name | Description| Latest Version  |
+|-----|-----|---|---|
+|  1  | Bonezegei_ILI9341| LCD Driver Library for ILI9341    |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ILI9341)](https://github.com/bonezegei/Bonezegei_ILI9341)  |
+|  2  | Bonezegei_Search | Keyword parser to Value from array|[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Search)](https://github.com/bonezegei/Bonezegei_Search)    |
+| 3   | Bonezegei_List   | List like container               |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_List)](https://github.com/bonezegei/Bonezegei_List)        |
 # Social Media
 [![FB](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bonezegei)
 [![YT](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UCZRRuP-U0oWVoQA5-WmQbtA)
