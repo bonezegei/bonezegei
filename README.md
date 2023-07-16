@@ -7,6 +7,8 @@ This repository is created as a hub for embedded system enthusiasts, developers,
 # Social Media
 [![FB](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bonezegei)
 [![YT](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UCZRRuP-U0oWVoQA5-WmQbtA)
+[![T](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_bonezegei)
+[![P](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.ph/bonezegei/)
 
 
 # Author
