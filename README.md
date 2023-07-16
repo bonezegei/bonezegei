@@ -5,8 +5,9 @@ This repository is created as a hub for embedded system enthusiasts, developers,
 
 
 # Social Media
-[![FB](https://img.shields.io/badge/Bonezegei-Facebook-blue)](https://www.facebook.com/bonezegei)
-[![YT](https://img.shields.io/badge/Bonezegei-Youtube-red)](https://youtube.com/channel/UCZRRuP-U0oWVoQA5-WmQbtA)
+[![FB](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bonezegei)
+[![YT](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UCZRRuP-U0oWVoQA5-WmQbtA)
+
 
 # Author
 [![YT](https://img.shields.io/badge/Bonezegei-Jofel_Batutay-blue)](https://www.linkedin.com/in/jofel-batutay-63737415b)
