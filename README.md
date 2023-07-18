@@ -15,7 +15,9 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 
 
 # Social Media
-Visit my social media account where I share my latest projects and tutorials based on my repositories. You can learn more about programming and improve your skills by following me. I look forward to seeing you there!
+Visit my social media account where I share my latest projects and tutorials based on my repositories. 
+You can learn more about programming and improve your skills by following me. I look forward to seeing you there!
+
 [![YT](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/channel/UCZRRuP-U0oWVoQA5-WmQbtA)
 [![FB](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bonezegei)
 [![T](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@bonezegei)
