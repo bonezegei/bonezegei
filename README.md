@@ -33,7 +33,6 @@ You can learn more about programming and improve your skills by following me. I 
 [![P](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Jofel-Batutay)
 
 
-[![YT](https://img.shields.io/badge/Bonezegei-Jofel_Batutay-blue)](https://www.linkedin.com/in/jofel-batutay-63737415b)
-
+Created By : Bonezegei (Jofel Batutay)
 visit my website:
 [https://bonezegei.com](https://bonezegei.com)
