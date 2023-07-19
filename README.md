@@ -13,6 +13,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  4  | Bonezegei_List     | List like container               |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_List)](https://github.com/bonezegei/Bonezegei_List)          |
 |  5  | Bonezegei_Utility  | Utility Contains shape and vector |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Utility)](https://github.com/bonezegei/Bonezegei_Utility)    |
 |  6  | Bonezegei_ILI9341v2| LCD Driver Library for ILI9341    |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ILI9341v2)](https://github.com/bonezegei/Bonezegei_ILI9341v2)    |
+|  7  | Bonezegei_XPT2046v2| Resistive Touch Controller        |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_XPT2046v2)](https://github.com/bonezegei/Bonezegei_XPT2046v2)    |
 
 
 # Social Media
