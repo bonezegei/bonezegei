@@ -38,10 +38,12 @@ You can learn more about programming and improve your skills by following me. I 
 
 
 # Author
-[![P](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jofel-batutay-63737415b)
+[![P](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jofelbatutay)
 [![P](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Jofel-Batutay)
 
 
 Created By : Bonezegei (Jofel Batutay)
 visit my website:
 [https://bonezegei.com](https://bonezegei.com)
+
+## #bonezegei
