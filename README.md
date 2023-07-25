@@ -17,9 +17,9 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  8  | Bonezegei_GL       | Graphics Library                  |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_GL)](https://github.com/bonezegei/Bonezegei_GL2)    |
 
 ### Simple Template for Web
-| No | Name | Description| Language/Script | Latest Version  |
+| No | Name | Description| Language/Script | Repository details  |
 |-----|-----|---|---|---|
-|  1  | web-templates-mobile  | Sample templates for mobile web |html, css, javascipt   |[![P](https://img.shields.io/github/v/release/bonezegei/web-templates-mobile1)](https://github.com/bonezegei/web-templates-mobile)    |
+|  1  | web-templates-mobile  | Sample templates for mobile web |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-2-green)](https://github.com/bonezegei/web-templates-mobile)    |
 
 
 
