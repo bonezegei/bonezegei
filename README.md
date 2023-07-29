@@ -7,14 +7,15 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 ### For Arduino IDE (Libaries)
 | No | Name | Description| Supported Board(s) | Latest Version  |
 |-----|-----|---|---|---|
-|  1  | Bonezegei_ILI9341  | LCD Driver Library for ILI9341    |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ILI9341)](https://github.com/bonezegei/Bonezegei_ILI9341)    |
-|  2  | Bonezegei_XPT2046  | Resistive Touch Controller        |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_XPT2046)](https://github.com/bonezegei/Bonezegei_XPT2046)    |
-|  3  | Bonezegei_Search   | Keyword parser to Value from array|All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Search)](https://github.com/bonezegei/Bonezegei_Search)      |
-|  4  | Bonezegei_List     | List like container               |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_List)](https://github.com/bonezegei/Bonezegei_List)          |
-|  5  | Bonezegei_Utility  | Utility Contains shape and vector |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Utility)](https://github.com/bonezegei/Bonezegei_Utility)    |
-|  6  | Bonezegei_ILI9341v2| LCD Driver Library for ILI9341    |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ILI9341v2)](https://github.com/bonezegei/Bonezegei_ILI9341v2)    |
-|  7  | Bonezegei_XPT2046v2| Resistive Touch Controller        |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_XPT2046v2)](https://github.com/bonezegei/Bonezegei_XPT2046v2)    |
-|  8  | Bonezegei_GL       | Graphics Library                  |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_GL)](https://github.com/bonezegei/Bonezegei_GL)    |
+|  1  | Bonezegei_ILI9341  | LCD Driver Library for ILI9341     |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ILI9341)](https://github.com/bonezegei/Bonezegei_ILI9341)    |
+|  2  | Bonezegei_XPT2046  | Resistive Touch Controller         |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_XPT2046)](https://github.com/bonezegei/Bonezegei_XPT2046)    |
+|  3  | Bonezegei_Search   | Keyword parser to Value from array |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Search)](https://github.com/bonezegei/Bonezegei_Search)      |
+|  4  | Bonezegei_List     | List like container                |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_List)](https://github.com/bonezegei/Bonezegei_List)          |
+|  5  | Bonezegei_Utility  | Utility Contains shape and vector  |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Utility)](https://github.com/bonezegei/Bonezegei_Utility)    |
+|  6  | Bonezegei_ILI9341v2| LCD Driver Library for ILI9341     |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ILI9341v2)](https://github.com/bonezegei/Bonezegei_ILI9341v2)    |
+|  7  | Bonezegei_XPT2046v2| Resistive Touch Controller         |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_XPT2046v2)](https://github.com/bonezegei/Bonezegei_XPT2046v2)    |
+|  8  | Bonezegei_GL       | Graphics Library                   |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_GL)](https://github.com/bonezegei/Bonezegei_GL)    |
+|  9  | Bonezegei_HCSR04   | Ultrasonic Module Library (HC-SR04)|All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_HCSR04)](https://github.com/bonezegei/Bonezegei_HCSR04)    |
 
 ### Simple Web-Based 
 | No | Name | Description| Language/Script | Repository details  |
