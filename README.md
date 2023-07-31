@@ -16,6 +16,8 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  7  | Bonezegei_XPT2046v2| Resistive Touch Controller         |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_XPT2046v2)](https://github.com/bonezegei/Bonezegei_XPT2046v2)    |
 |  8  | Bonezegei_GL       | Graphics Library                   |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_GL)](https://github.com/bonezegei/Bonezegei_GL)    |
 |  9  | Bonezegei_HCSR04   | Ultrasonic Module Library (HC-SR04)|All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_HCSR04)](https://github.com/bonezegei/Bonezegei_HCSR04)    |
+|  10 | Bonezegei_SSD1306  | 128x64 OLED Driver                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_SSD1306)](https://github.com/bonezegei/Bonezegei_SSD1306)    |
+|  11 | Bonezegei_GPS      | GPS Parser Via Serial Port         |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_GPS)](https://github.com/bonezegei/Bonezegei_GPS)    |
 
 ### Simple Web-Based 
 | No | Name | Description| Language/Script | Repository details  |
