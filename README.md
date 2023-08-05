@@ -19,6 +19,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  10 | Bonezegei_SSD1306  | 128x64 OLED Driver                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_SSD1306)](https://github.com/bonezegei/Bonezegei_SSD1306)    |
 |  11 | Bonezegei_GPS      | GPS Parser Via Serial Port         |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_GPS)](https://github.com/bonezegei/Bonezegei_GPS)    |
 |  12 | Bonezegei_GSM      | GSM Library For sending SMS        |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_GSM)](https://github.com/bonezegei/Bonezegei_GSM)    |
+|  13 | Bonezegei_HD44780  | 16x2 LCD Display                   |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_HD44780)](https://github.com/bonezegei/Bonezegei_HD44780)    |
 
 
 ### Simple Web-Based 
