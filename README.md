@@ -26,7 +26,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 | No | Name | Description| Language/Script | Repository details  |
 |-----|-----|---|---|---|
 |  1  | web-templates-mobile  | Sample templates for mobile web |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-2-green)](https://github.com/bonezegei/web-templates-mobile)    |
-|  2  | bonezegei-mobile      | simple mobile web utility       |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-orange)](https://github.com/bonezegei/bonezegei-mobile)    |
+|  2  | bonezegei-mobile      | simple mobile web utility       |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-1-green)](https://github.com/bonezegei/bonezegei-mobile)    |
 |  3  | bonezegei-chart       | simple web based chart          |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-orange)](https://github.com/bonezegei/bonezegei-chart)    |
 
 
