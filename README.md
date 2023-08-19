@@ -32,7 +32,11 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  3  | bonezegei-chart       | simple web based chart          |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-orange)](https://github.com/bonezegei/bonezegei-chart)     |
 |  4  | bonezegei-web         | simple web tempaltes            |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-orange)](https://github.com/bonezegei/bonezegei-web)       |
 
-
+### Other Repositories
+| No | Name | Description| Language/Script | Repository details  |
+|-----|-----|---|---|---|
+|  1  | bonezegei-schematic       | Software for Circuit Schematic    |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-orange)](https://github.com/bonezegei/bonezegei-schematic)      |
+|  2  | bonezegei-GameEngine      | Simple Game Engine Renderer       |c++, c, glsl, hlsl     |[![P](https://img.shields.io/badge/Samples-0-orange)](https://github.com/bonezegei/bonezegei-GameEngine)     |
 
 
 
