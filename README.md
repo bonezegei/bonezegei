@@ -39,7 +39,8 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 | No | Name | Description| Language/Script | Repository details  |
 |-----|-----|---|---|---|
 |  1  | bonezegei-schematic       | Software for Circuit Schematic    |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-schematic)      |
-|  2  | bonezegei-GameEngine      | Simple Game Engine Renderer       |c++, c, glsl, hlsl     |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-GameEngine)     |
+|  2  | bonezegei-GameEngine      | Simple Game Engine Renderer       |C++, C, glsl, hlsl     |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-GameEngine)     |
+|  3  | bonezegei-Socket          | Simple Network Socket             |C++, C,                |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-Socket)         |
 
 
 
