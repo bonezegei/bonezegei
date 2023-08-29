@@ -23,6 +23,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  14 | Bonezegei_SoftSerial  | Software Serial                    |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_SoftSerial)](https://github.com/bonezegei/Bonezegei_SoftSerial)    |
 |  15 | Bonezegei_RS485       | RS 485 to UART Library             |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_RS485)](https://github.com/bonezegei/Bonezegei_RS485)    |
 |  16 | Bonezegei_OneWire     | One Wire                           |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_OneWire)](https://github.com/bonezegei/Bonezegei_OneWire)    |
+|  17 | Bonezegei_BMP180      | BMP180 Library                     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_BMP180)](https://github.com/bonezegei/Bonezegei_BMP180)    |
 
 
 ### Simple Web-Based 
