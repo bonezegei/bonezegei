@@ -34,7 +34,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  2  | bonezegei-mobile      | simple mobile web utility          |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-3-green)](https://github.com/bonezegei/bonezegei-mobile)     |
 |  3  | bonezegei-chart       | simple web based chart             |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-chart)     |
 |  4  | bonezegei-web         | simple web templates               |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-web)       |
-|  5  | bonezegei-badge       | simple badge for web               |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-3-green)](https://github.com/bonezegei/bonezegei-badge)      |
+|  5  | bonezegei-badge       | simple badge for web               |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-5-green)](https://github.com/bonezegei/bonezegei-badge)      |
 |  6  | bonezegei-codeview    | simple program code viewer for web |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-codeview)      |
 
 ### Other Repositories
