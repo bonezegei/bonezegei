@@ -38,6 +38,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  4  | bonezegei-web         | simple web templates               |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-web)          |
 |  5  | bonezegei-badge       | simple badge for web               |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-5-green)](https://github.com/bonezegei/bonezegei-badge)      |
 |  6  | bonezegei-codeview    | simple program code viewer for web |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-codeview)     |
+|  7  | bonezegei-web-json    | simple template using json         |html, css, javascipt   |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-web-json)     |
 
 ### Other Repositories
 | No | Name | Description| Language/Script | Repository details  |
