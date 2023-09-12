@@ -27,6 +27,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  18 | Bonezegei_Protocol    | Data Transmission Protocol         |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Protocol)](https://github.com/bonezegei/Bonezegei_Protocol)      |
 |  19 | Bonezegei_Compute     | Simple Compute library             |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Compute)](https://github.com/bonezegei/Bonezegei_Compute)        |
 |  20 | Bonezegei_ST7735      | TFT LCD Driver                     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ST7735)](https://github.com/bonezegei/Bonezegei_ST7735)          |
+|  21 | Bonezegei_RC522       | RC522 RFID Driver via SPI          |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_RC522)](https://github.com/bonezegei/Bonezegei_RC522)            |
 
 
 ### Simple Web-Based 
