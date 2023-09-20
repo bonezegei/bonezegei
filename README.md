@@ -1,5 +1,5 @@
 # Bonezegei
-[![Bonezegei Stats](https://github-readme-stats.vercel.app/api?username=bonezegei&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/bonezegei/github-readme-stats#gh-light-mode-only)
+[![Bonezegei Stats](https://github-readme-stats.vercel.app/api?username=bonezegei&show_icons=true&theme=default#gh-light-mode-only)](https://bonezegei.com)
 
 visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 # Repositories
