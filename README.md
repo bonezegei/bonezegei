@@ -1,6 +1,5 @@
 # Bonezegei
-### Explore, Learn, Build 
-This repository is created as a hub for embedded system enthusiasts, developers, and hobbyists seeking to delve into the exciting world of microcontrollers and other embedded devices. It serves as a knowledge-sharing platform, providing a wide range of programming examples, project ideas, and resources to help individuals learn and master the art of embedded system programming. From simple LED blinking to complex robotics and IoT applications, this repository aims to cater to beginners and advanced users alike, fostering a supportive community where people can exchange ideas, collaborate on projects, and unleash their creativity in building innovative embedded systems that power the future of technology. Whether you're a student, a professional, or simply passionate about electronics, this repository is here to inspire, educate, and empower you on your embedded systems journey.
+[![Bonezegei Stats](https://github-readme-stats.vercel.app/api?username=bonezegei&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/bonezegei/github-readme-stats#gh-light-mode-only)
 
 visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 # Repositories
