@@ -28,6 +28,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  20 | Bonezegei_ST7735      | TFT LCD Driver                     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ST7735)](https://github.com/bonezegei/Bonezegei_ST7735)          |
 |  21 | Bonezegei_RC522       | RC522 RFID Driver via SPI          |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_RC522)](https://github.com/bonezegei/Bonezegei_RC522)            |
 |  22 | Bonezegei_ST7567S     | I2C LCD                            |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ST7567S)](https://github.com/bonezegei/Bonezegei_ST7567S)        |
+|  22 | Bonezegei_I2CScan     | I2C Scanner                        |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_I2CScan)](https://github.com/bonezegei/Bonezegei_I2CScan)        |
 
 
 ### Simple Web-Based 
