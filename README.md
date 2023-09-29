@@ -4,6 +4,11 @@
 visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 # Repositories
 ### For Arduino IDE (Libaries)
+
+  <h4>Disclaimer</h4>
+  <p>The code and libraries provided by Bonezegei is intended for informational and educational purposes only. Bonezegei does not own or manufacture the hardware associated with the code. The code is provided "as is" without any warranty, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall Bonezegei be liable for any claim, damages, or other liability arising from the use of the code or the hardware. Users are solely responsible for ensuring that their use of the code complies with all applicable laws and regulations.</p>
+
+
 | No | Name | Description| Supported Board(s) | Latest Version  |
 |-----|-----|---|---|---|
 |  1  | Bonezegei_ILI9341     | LCD Driver Library for ILI9341     |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ILI9341)](https://github.com/bonezegei/Bonezegei_ILI9341)        |
