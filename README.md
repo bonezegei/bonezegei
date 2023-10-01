@@ -2,6 +2,9 @@
 [![Bonezegei Stats](https://github-readme-stats.vercel.app/api?username=bonezegei&show_icons=true&theme=default#gh-light-mode-only)](https://bonezegei.com)
 
 visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0POG30)
+
 # Repositories
 ### For Arduino IDE (Libaries)
 
