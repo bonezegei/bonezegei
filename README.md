@@ -3,7 +3,7 @@
 
 visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0POG30)
+
 
 # Repositories
 ### For Arduino IDE (Libaries)
@@ -83,6 +83,12 @@ You can learn more about programming and improve your skills by following me. I 
 [![P](https://img.shields.io/badge/bonezegei-%23E60023.svg?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/dev?id=8426300773785370299)
 [![T](https://img.shields.io/badge/_bonezegei-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_bonezegei)
 [![P](https://img.shields.io/badge/bonezegei-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.ph/bonezegei/)
+
+[![P](https://img.shields.io/badge/bonezegei-%23E60023.svg?style=for-the-badge&logo=Patreon&logoColor=white)](patreon.com/Bonezegei)
+
+<br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0POG30)
 
 
 
