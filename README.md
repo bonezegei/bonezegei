@@ -10,6 +10,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 
   <h4>Disclaimer</h4>
   <p>The code and libraries provided by Bonezegei is intended for informational and educational purposes only. Bonezegei does not own or manufacture the hardware associated with the code. The code is provided "as is" without any warranty, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall Bonezegei be liable for any claim, damages, or other liability arising from the use of the code or the hardware. Users are solely responsible for ensuring that their use of the code complies with all applicable laws and regulations.</p>
+<br>
 
 
 | No | Name | Description| Supported Board(s) | Latest Version  |
@@ -42,6 +43,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  26 | Bonezegei_PN5180      | RFID Driver                        |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PN5180)](https://github.com/bonezegei/Bonezegei_PN5180)        |
 
 
+<br>
 
 ### Simple Web-Based 
 | No | Name | Description| Language/Script | Repository details  |
@@ -62,11 +64,14 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  3  | bonezegei-Socket          | Simple Network Socket             |C++, C,                |[![P](https://img.shields.io/badge/Samples-2-green)](https://github.com/bonezegei/bonezegei-Socket)       |
 |  4  | bonezegei-Protocol        | Simple data transmission format   |C++, C, php, javascipt |[![P](https://img.shields.io/badge/Samples-0-red)](https://github.com/bonezegei/bonezegei-Protocol)       |
 
+<br>
 
 # Applications and Tools
-| No | Name |
-|-----|-----|
-|[![P](resources/app/bonezegeiSMS64.png)](https://github.com/bonezegei/Bonezegei-SMS)|<strong>Bonezegei SMS </strong> is the Android application that transforms your smartphone into a versatile SMS gateway. |
+| Logo | Name |Details|
+|-----|-----|-------|
+|[![P](resources/app/bonezegeiSMS64.png)](https://github.com/bonezegei/Bonezegei-SMS)|<strong>Bonezegei SMS </strong> | Bonezegei SMS is the Android application that transforms your smartphone into a versatile SMS gateway. |
+
+<br>
 
 # Social Media
 Visit my social media account where I share my latest projects and tutorials based on my repositories. 
