@@ -80,16 +80,18 @@ You can learn more about programming and improve your skills by following me. I 
 [![YT](https://img.shields.io/badge/bonezegei-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@bonezegei)
 [![FB](https://img.shields.io/badge/bonezegei-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/bonezegei)
 [![T](https://img.shields.io/badge/bonezegei-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@bonezegei)
-[![P](https://img.shields.io/badge/bonezegei-%23E60023.svg?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/dev?id=8426300773785370299)
+[![P](https://img.shields.io/badge/bonezegei-414141.svg?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/dev?id=8426300773785370299)
 [![T](https://img.shields.io/badge/_bonezegei-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_bonezegei)
 [![P](https://img.shields.io/badge/bonezegei-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.ph/bonezegei/)
 
-[![P](https://img.shields.io/badge/bonezegei-%23E60023.svg?style=for-the-badge&logo=Patreon&logoColor=white)](patreon.com/Bonezegei)
+[![P](https://img.shields.io/badge/bonezegei-F96854.svg?style=for-the-badge&logo=Patreon&logoColor=white)](patreon.com/Bonezegei)
+[![P](https://img.shields.io/badge/bonezegei-12100E.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@bonezegei)
+[![P](https://img.shields.io/badge/Bonezegei-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/r/bonezegei/)
+
 
 <br>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T0POG30)
-
 
 
 
