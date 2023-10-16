@@ -40,7 +40,13 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  23 | Bonezegei_I2CScan     | I2C Scanner                        |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_I2CScan)](https://github.com/bonezegei/Bonezegei_I2CScan)        |
 |  24 | Bonezegei_PCF8574     | I2C IO Expander                    |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PCF8574)](https://github.com/bonezegei/Bonezegei_PCF8574)        |
 |  25 | Bonezegei_MAX7219     | LED Matrix Controller              |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_MAX7219)](https://github.com/bonezegei/Bonezegei_MAX7219)        |
-|  26 | Bonezegei_PN5180      | RFID Driver                        |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PN5180)](https://github.com/bonezegei/Bonezegei_PN5180)        |
+|  26 | Bonezegei_PN5180      | RFID Driver                        |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PN5180)](https://github.com/bonezegei/Bonezegei_PN5180)          |
+|  27 | Bonezegei_DS3231      | RTC Driver                         |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DS3231)](https://github.com/bonezegei/Bonezegei_DS3231)          |
+|  28 | Bonezegei_DS1307      | RTC Driver                         |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DS1307)](https://github.com/bonezegei/Bonezegei_DS1307)          |
+|  29 | Bonezegei_HMC5883L    | I2C compass                        |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_HMC5883L)](https://github.com/bonezegei/Bonezegei_HMC5883L)      |
+|  30 | Bonezegei_WS2812      | NZR RGB LED Controller             |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_WS2812)](https://github.com/bonezegei/Bonezegei_WS2812)          |
+|  31 | Bonezegei_C9A01       | TFT LCD Driver                     |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_C9A01)](https://github.com/bonezegei/Bonezegei_C9A01)            |
+
 
 
 <br>
