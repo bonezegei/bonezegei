@@ -96,7 +96,7 @@ You can learn more about programming and improve your skills by following me. I 
 [![T](https://img.shields.io/badge/_bonezegei-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_bonezegei)
 [![P](https://img.shields.io/badge/bonezegei-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.ph/bonezegei/)
 
-[![P](https://img.shields.io/badge/bonezegei-F96854.svg?style=for-the-badge&logo=Patreon&logoColor=white)](patreon.com/Bonezegei)
+[![P](https://img.shields.io/badge/bonezegei-F96854.svg?style=for-the-badge&logo=Patreon&logoColor=white)](https://patreon.com/Bonezegei)
 [![P](https://img.shields.io/badge/bonezegei-12100E.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@bonezegei)
 [![P](https://img.shields.io/badge/Bonezegei-FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/r/bonezegei/)
 
