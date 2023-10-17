@@ -1,6 +1,9 @@
 # Bonezegei
 [![Bonezegei Stats](https://github-readme-stats.vercel.app/api?username=bonezegei&show_icons=true&theme=default#gh-light-mode-only)](https://bonezegei.com)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bonezegei)](https://git.io/streak-stats)
+
+
 visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 
 
