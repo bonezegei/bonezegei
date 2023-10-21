@@ -49,7 +49,8 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  29 | Bonezegei_HMC5883L    | I2C compass                        |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_HMC5883L)](https://github.com/bonezegei/Bonezegei_HMC5883L)      |
 |  30 | Bonezegei_WS2812      | NZR RGB LED Controller             |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_WS2812)](https://github.com/bonezegei/Bonezegei_WS2812)          |
 |  31 | Bonezegei_C9A01       | TFT LCD Driver                     |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_C9A01)](https://github.com/bonezegei/Bonezegei_C9A01)            |
-
+|  32 | Bonezegei_DHT11       | Temperature Sensor                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DHT11)](https://github.com/bonezegei/Bonezegei_DHT11)            |
+|  33 | Bonezegei_DHT22       | Temperature Sensor                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DHT22)](https://github.com/bonezegei/Bonezegei_DHT22)            |
 
 
 <br>
