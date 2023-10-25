@@ -3,7 +3,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=bonezegei)](https://git.io/streak-stats)
 
-
+My GitHub repository, serves as my personal note and showcases some of my work. I use this repository to document my learning journey, share my insights and reflections, and demonstrate my skills and projects. You can find various topics and resources related to data science, machine learning, natural language processing, and more. Feel free to browse, comment, or fork my repository if you find it useful or interesting.
+ 
 visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 
 
