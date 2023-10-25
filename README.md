@@ -52,7 +52,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  32 | Bonezegei_DHT11       | Temperature Sensor                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DHT11)](https://github.com/bonezegei/Bonezegei_DHT11)             |
 |  33 | Bonezegei_DHT22       | Temperature Sensor                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DHT22)](https://github.com/bonezegei/Bonezegei_DHT22)             |
 |  34 | Bonezegei_DS18B20     | Temperature Sensor                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DS18B20)](https://github.com/bonezegei/Bonezegei_DS18B20)         |
-|  34 | Bonezegei_WifiManager | Simple Wifi Manger for ESP Mcu     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_WifiManager)](https://github.com/bonezegei/Bonezegei_WifiManager) |
+|  35 | Bonezegei_WifiManager | Simple Wifi Manger for ESP Mcu     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_WifiManager)](https://github.com/bonezegei/Bonezegei_WifiManager) |
 
 
 <br>
