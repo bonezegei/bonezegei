@@ -51,6 +51,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  31 | Bonezegei_C9A01       | TFT LCD Driver                     |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_C9A01)](https://github.com/bonezegei/Bonezegei_C9A01)            |
 |  32 | Bonezegei_DHT11       | Temperature Sensor                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DHT11)](https://github.com/bonezegei/Bonezegei_DHT11)            |
 |  33 | Bonezegei_DHT22       | Temperature Sensor                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DHT22)](https://github.com/bonezegei/Bonezegei_DHT22)            |
+|  34 | Bonezegei_DS18B20     | Temperature Sensor                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DS18B20)](https://github.com/bonezegei/Bonezegei_DS18B20)            |
 
 
 <br>
