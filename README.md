@@ -58,7 +58,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  37 | Bonezegei_SX1278      | SX1278 Lora                        |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_SX1278)](https://github.com/bonezegei/Bonezegei_SX1278)           |
 |  38 | Bonezegei_VL53L0      | VL53L0 ToF                         |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_VL53L0)](https://github.com/bonezegei/Bonezegei_VL53L0)           |
 |  39 | Bonezegei_NeuralNet   | Simple Neural Network for MCU      |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_NeuralNet)](https://github.com/bonezegei/Bonezegei_NeuralNet)     |
-|  40 | Bonezegei_DS1302      | DS1302 RTC Arduino Library         |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DS1302)](https://github.com/bonezegei/Bonezegei_DS1302)           |
+|  40 | Bonezegei_DS1302      | RTC Driver                         |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DS1302)](https://github.com/bonezegei/Bonezegei_DS1302)           |
 
 
 
