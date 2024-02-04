@@ -134,3 +134,5 @@ visit my website:
 [https://bonezegei.com](https://bonezegei.com)
 
 ## #bonezegei
+
+![](https://komarev.com/ghpvc/?username=bonezegei&style=flat-square)
