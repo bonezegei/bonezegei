@@ -64,7 +64,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  39 | Bonezegei_RC522       | RC522 RFID Driver via SPI          |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_RC522)](https://github.com/bonezegei/Bonezegei_RC522)             |
 |  40 | Bonezegei_PN5180      | RFID Driver                        |ESP32   |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PN5180)](https://github.com/bonezegei/Bonezegei_PN5180)           |
 |  41 | Bonezegei_WifiManager | Simple Wifi Manger for ESP Mcu     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_WifiManager)](https://github.com/bonezegei/Bonezegei_WifiManager) |
-
+|  42 | Bonezegei_DRV8825     | DRV8825 Stepper Motor Driver       |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DRV8825)](https://github.com/bonezegei/Bonezegei_DRV8825) |
 
 
 
