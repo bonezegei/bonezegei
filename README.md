@@ -66,7 +66,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  41 | Bonezegei_WifiManager         | Simple Wifi Manger for ESP Mcu     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_WifiManager)](https://github.com/bonezegei/Bonezegei_WifiManager) |
 |  42 | Bonezegei_DRV8825             | DRV8825 Stepper Motor Driver       |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_DRV8825)](https://github.com/bonezegei/Bonezegei_DRV8825)         |
 |  42 | Bonezegei_ULN2003_Stepper     | ULN 2003 to Control Strpper Motor (28BYJ-48)       |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_ULN2003_Stepper)](https://github.com/bonezegei/Bonezegei_ULN2003_Stepper)         |
-|  43 | Bonezegei_PCA9685             | PCA9685 I2C PWM Expander       |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PCA9685)](https://github.com/bonezegei/Bonezegei_PCA9685)         |
+|  43 | Bonezegei_PCA9685             | PCA9685 I2C PWM Expander           |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PCA9685)](https://github.com/bonezegei/Bonezegei_PCA9685)         |
 
 
 
