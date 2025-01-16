@@ -70,7 +70,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  45 | Bonezegei_PCA9685             | PCA9685 I2C PWM Expander           |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PCA9685)](https://github.com/bonezegei/Bonezegei_PCA9685)         |
 |  46 | Bonezegei_Printf              | Simple Printf function             |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Printf)](https://github.com/bonezegei/Bonezegei_Printf)           |
 |  47 | Bonezegei_Keypad              | Keypad Library                     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Keypad)](https://github.com/bonezegei/Bonezegei_Keypad)           |
-|  47 | Bonezegei_PZEM004T            | PZEM004T Module Library            |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PZEM004T)](https://github.com/bonezegei/Bonezegei_PZEM004T)       |
+|  48 | Bonezegei_PZEM004T            | PZEM004T Module Library            |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PZEM004T)](https://github.com/bonezegei/Bonezegei_PZEM004T)       |
 
 
 
