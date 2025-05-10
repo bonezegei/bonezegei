@@ -71,7 +71,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  46 | Bonezegei_Printf              | Simple Printf function             |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Printf)](https://github.com/bonezegei/Bonezegei_Printf)           |
 |  47 | Bonezegei_Keypad              | Keypad Library                     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Keypad)](https://github.com/bonezegei/Bonezegei_Keypad)           |
 |  48 | Bonezegei_PZEM004T            | PZEM004T Module Library            |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PZEM004T)](https://github.com/bonezegei/Bonezegei_PZEM004T)       |
-
+|  49 | Bonezegei_JSON                | Simple Serialized json encode/decode              |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_JSON)](https://github.com/bonezegei/Bonezegei_JSON)                                 |
 
 
 <br>
