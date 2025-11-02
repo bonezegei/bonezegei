@@ -73,7 +73,7 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 |  48 | Bonezegei_PZEM004T            | PZEM004T Module Library            |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PZEM004T)](https://github.com/bonezegei/Bonezegei_PZEM004T)       |
 |  49 | Bonezegei_JSON                | Simple Serialized json encode/decode              |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_JSON)](https://github.com/bonezegei/Bonezegei_JSON)                                 |
 |  50 | Bonezegei_TM1638              | LED Drive Control                  |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_TM1638)](https://github.com/bonezegei/Bonezegei_TM1638)                                            |
-
+|  51 | Bonezegei_74HC595             | 74HC595 Driver                     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_74HC595)](https://github.com/bonezegei/Bonezegei_74HC595)                                          |
 <br>
 
 ### Microcontroller Projects
