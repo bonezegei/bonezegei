@@ -14,6 +14,17 @@ visit [https://bonezegei.com](https://bonezegei.com) for more project samples.
 
 
 # Repositories
+
+### Bonezegei Scripting Language
+The Bonezegei Scripting Language (BSL) is a newly developed, dynamically typed programming language implemented through a custom interpreter written in the C language. It is designed primarily for rapid prototyping and the integration of embeddable logic within software systems. BSL features a simplified and intuitive syntax influenced by JavaScript and the C family of languages, promoting ease of adoption and efficient development.
+
+| No  | Name                          | Description                        | Supported OS / Arch | Latest Version                                                                                                                                            |
+|-----|-------------------------------|------------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  1  | Bonezegei_Scripting_Language  | Interpreter and Package Installer  |Windows and Linux    | [![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Scripting_Language)](https://github.com/bonezegei/Bonezegei_Scripting_Language)         |
+|  2  | BSL_TestLib (do not Install)  | Test Library for Development       |Win/linux x86/arm    | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_TestLib)](https://github.com/bonezegei/BSL_TestLib)                                           |
+|  3  | BSL_Pipe                      | Pipe Library                       |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Pipe)](https://github.com/bonezegei/BSL_Pipe)                                                 |
+
+
 ### For Arduino IDE (Libaries)
 
   <h4>Disclaimer</h4>
