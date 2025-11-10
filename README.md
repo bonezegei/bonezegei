@@ -23,7 +23,7 @@ The Bonezegei Scripting Language (BSL) is a newly developed, dynamically typed p
 |  1  | Bonezegei_Scripting_Language  | Interpreter and Package Installer  |Windows and Linux    | [![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Scripting_Language)](https://github.com/bonezegei/Bonezegei_Scripting_Language)         |
 |  2  | BSL_TestLib (do not Install)  | Test Library for Development       |Win/linux x86/arm    | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_TestLib)](https://github.com/bonezegei/BSL_TestLib)                                           |
 |  3  | BSL_Pipe                      | Pipe Library                       |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Pipe)](https://github.com/bonezegei/BSL_Pipe)                                                 |
-|  3  | BSL_Thread (Experimental)     | Thread Library                     |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Thread)](https://github.com/bonezegei/BSL_Thread)                                             |
+|  4  | BSL_Thread (Experimental)     | Thread Library                     |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Thread)](https://github.com/bonezegei/BSL_Thread)                                             |
 
 ### For Arduino IDE (Libaries)
 
