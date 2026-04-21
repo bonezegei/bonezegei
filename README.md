@@ -25,6 +25,7 @@ The Bonezegei Scripting Language (BSL) is a newly developed, dynamically typed p
 |  3  | BSL_Pipe      | Pipe Library    |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Pipe)](https://github.com/bonezegei/BSL_Pipe)                                                 |
 |  4  | BSL_Thread    | Thread Library  |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Thread)](https://github.com/bonezegei/BSL_Thread)                                             |
 |  5  | BSL_Socket    | Network Socket  |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Socket)](https://github.com/bonezegei/BSL_Socket)                                             |
+|  5  | BSL_Serial    | Serial Port     |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Serial)](https://github.com/bonezegei/BSL_Serial)   
 
 ### For Arduino IDE (Libaries)
 
