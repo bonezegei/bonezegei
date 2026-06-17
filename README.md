@@ -23,13 +23,13 @@ The Bonezegei Scripting Language (BSL) is a newly developed, dynamically typed p
 |  1  | Bonezegei_Scripting_Language  | Interpreter and Package Installer  |Windows and Linux    | [![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Scripting_Language)](https://github.com/bonezegei/Bonezegei_Scripting_Language)         |
 |  2  | BSL_TestLib (do not Install)  | Test Library for Development       |Win/linux x86/arm    | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_TestLib)](https://github.com/bonezegei/BSL_TestLib)                                           |
 |  3  | BSL_Pipe      | Pipe Library    |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Pipe)](https://github.com/bonezegei/BSL_Pipe)                                                 |
-|  4  | BSL_Thread    | Thread Library  |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Thread)](https://github.com/bonezegei/BSL_Thread)                                             |
+|  4  | BSL_Thread    | Thread Library  |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Thread)](https://github.com/bonezegei/BSL_Thread)                                             |
 |  5  | BSL_Socket    | Network Socket  |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Socket)](https://github.com/bonezegei/BSL_Socket)                                             |
-|  6  | BSL_Serial    | Serial Port Library    |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Serial)](https://github.com/bonezegei/BSL_Serial) 
-|  7  | BSL_HTTPS     | HTPPS & WSS Framework  |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_HTTPS)](https://github.com/bonezegei/BSL_HTTPS) 
-|  8  | BSL_WebSoket  | HTPP & WS Framework    |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_WebSocket)](https://github.com/bonezegei/BSL_WebSocket) 
+|  6  | BSL_Serial    | Serial Port Library    |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Serial)](https://github.com/bonezegei/BSL_Serial) 
+|  7  | BSL_HTTPS     | HTTPS & WSS Framework  |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_HTTPS)](https://github.com/bonezegei/BSL_HTTPS) 
+|  8  | BSL_WebSocket | HTTP & WS Framework    |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_WebSocket)](https://github.com/bonezegei/BSL_WebSocket) 
 |  9  | BSL_SQLite    | SQLite Library         |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_SQLite)](https://github.com/bonezegei/BSL_SQLite)
-| 10  | BSL_Webview   | BSL_Webview Library    |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Webview)](https://github.com/bonezegei/BSL_Webview)
+| 10  | BSL_Webview   | BSL_Webview Library    |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Webview)](https://github.com/bonezegei/BSL_Webview)
 
 ### For Arduino IDE (Libaries)
 
