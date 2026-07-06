@@ -31,6 +31,12 @@ The Bonezegei Scripting Language (BSL) is a newly developed, dynamically typed p
 |  9  | BSL_SQLite    | SQLite Library         |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_SQLite)](https://github.com/bonezegei/BSL_SQLite)
 | 10  | BSL_Webview   | BSL_Webview Library    |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Webview)](https://github.com/bonezegei/BSL_Webview)
 
+### mBSL- Micro Bonezegei Scripting Language
+ [![P](https://img.shields.io/github/v/release/bonezegei/mBSL-Micro_Bonezegei_Scripting_Language)](https://github.com/bonezegei/mBSL-Micro_Bonezegei_Scripting_Language)     
+
+mBSL (Micro Bonezegei Scripting Language) is an interpreted scripting language and process-based virtual machine designed to execute structured scripts directly on microcontrollers like Arduino, ESP32, and STM32.
+In traditional embedded development, any adjustment to program logic requires a full recompilation and hardware re-flash. mBSL introduces an isolated execution environment on the chip, allowing developers to load and run scripts modularly without modifying the primary compiled firmware.
+ 
 ### For Arduino IDE (Libaries)
 
   <h4>Disclaimer</h4>
