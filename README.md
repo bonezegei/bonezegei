@@ -28,8 +28,8 @@ The Bonezegei Scripting Language (BSL) is a newly developed, dynamically typed p
 |  6  | BSL_Serial    | Serial Port Library    |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Serial)](https://github.com/bonezegei/BSL_Serial) 
 |  7  | BSL_HTTPS     | HTTPS & WSS Framework  |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_HTTPS)](https://github.com/bonezegei/BSL_HTTPS) 
 |  8  | BSL_WebSocket | HTTP & WS Framework    |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_WebSocket)](https://github.com/bonezegei/BSL_WebSocket) 
-|  9  | BSL_SQLite    | SQLite Library         |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_SQLite)](https://github.com/bonezegei/BSL_SQLite)
-| 10  | BSL_Webview   | BSL_Webview Library    |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Webview)](https://github.com/bonezegei/BSL_Webview)
+|  9  | BSL_SQLite    | SQLite Library (Wrapper) |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_SQLite)](https://github.com/bonezegei/BSL_SQLite)
+| 10  | BSL_Webview   | BSL_Webview Library (Wrapper) |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Webview)](https://github.com/bonezegei/BSL_Webview)
 
 ### mBSL- Micro Bonezegei Scripting Language
  [![P](https://img.shields.io/github/v/release/bonezegei/mBSL-Micro_Bonezegei_Scripting_Language)](https://github.com/bonezegei/mBSL-Micro_Bonezegei_Scripting_Language)     
