@@ -32,6 +32,7 @@ The Bonezegei Scripting Language (BSL) is a newly developed, dynamically typed p
 | 10  | BSL_Webview   | BSL_Webview Library (Wrapper) |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Webview)](https://github.com/bonezegei/BSL_Webview)
 | 11  | BSL_Base64    | Base64 (en/de) Library  |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Base64)](https://github.com/bonezegei/BSL_Base64)
 | 12  | BSL_Async     | Async Library           |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Async)](https://github.com/bonezegei/BSL_Async)
+| 13  | BSL_Hash      | Hash Library            |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Hash)](https://github.com/bonezegei/BSL_Hash)
 
 ### mBSL- Micro Bonezegei Scripting Language
  [![P](https://img.shields.io/github/v/release/bonezegei/mBSL-Micro_Bonezegei_Scripting_Language)](https://github.com/bonezegei/mBSL-Micro_Bonezegei_Scripting_Language)     
