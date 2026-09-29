@@ -25,10 +25,10 @@ The Bonezegei Scripting Language (BSL) is a newly developed, dynamically typed p
 |  3  | BSL_Pipe      | Pipe Library    |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Pipe)](https://github.com/bonezegei/BSL_Pipe)                                                 |
 |  4  | BSL_Thread    | Thread Library  |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Thread)](https://github.com/bonezegei/BSL_Thread)                                             |
 |  5  | BSL_Socket    | Network Socket  |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Socket)](https://github.com/bonezegei/BSL_Socket)                                             |
-|  6  | BSL_Serial    | Serial Port Library    |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Serial)](https://github.com/bonezegei/BSL_Serial) 
-|  7  | BSL_HTTPS     | HTTPS & WSS Framework  |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_HTTPS)](https://github.com/bonezegei/BSL_HTTPS) 
-|  8  | BSL_WebSocket | HTTP & WS Framework    |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_WebSocket)](https://github.com/bonezegei/BSL_WebSocket) 
-|  9  | BSL_SQLite    | SQLite Library (Wrapper) |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_SQLite)](https://github.com/bonezegei/BSL_SQLite)
+|  6  | BSL_Serial    | Serial Port Library         |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Serial)](https://github.com/bonezegei/BSL_Serial) 
+|  7  | BSL_HTTPS     | HTTPS & WSS Framework       |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_HTTPS)](https://github.com/bonezegei/BSL_HTTPS) 
+|  8  | BSL_HTTP      | HTTP, SSE & WS Framework    |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_HTTP)](https://github.com/bonezegei/BSL_HTTP) 
+|  9  | BSL_SQLite    | SQLite Library (Wrapper)    |Win/linux x86        | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_SQLite)](https://github.com/bonezegei/BSL_SQLite)
 | 10  | BSL_Webview   | BSL_Webview Library (Wrapper) |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Webview)](https://github.com/bonezegei/BSL_Webview)
 | 11  | BSL_Base64    | Base64 (en/de) Library  |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Base64)](https://github.com/bonezegei/BSL_Base64)
 | 12  | BSL_Async     | Async Library           |Win/linux x86/arm64  | [![P](https://img.shields.io/github/v/release/bonezegei/BSL_Async)](https://github.com/bonezegei/BSL_Async)
