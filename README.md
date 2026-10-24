@@ -97,9 +97,15 @@ In traditional embedded development, any adjustment to program logic requires a 
 |  46 | Bonezegei_Printf              | Simple Printf function             |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Printf)](https://github.com/bonezegei/Bonezegei_Printf)           |
 |  47 | Bonezegei_Keypad              | Keypad Library                     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Keypad)](https://github.com/bonezegei/Bonezegei_Keypad)           |
 |  48 | Bonezegei_PZEM004T            | PZEM004T Module Library            |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PZEM004T)](https://github.com/bonezegei/Bonezegei_PZEM004T)       |
-|  49 | Bonezegei_JSON                | Simple Serialized json encode/decode              |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_JSON)](https://github.com/bonezegei/Bonezegei_JSON)                                 |
-|  50 | Bonezegei_TM1638              | LED Drive Control                  |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_TM1638)](https://github.com/bonezegei/Bonezegei_TM1638)                                            |
-|  51 | Bonezegei_74HC595             | 74HC595 Driver                     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_74HC595)](https://github.com/bonezegei/Bonezegei_74HC595)                                          |
+|  49 | Bonezegei_JSON                | Simple Serialized json encode/decode              |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_JSON)](https://github.com/bonezegei/Bonezegei_JSON) |
+|  50 | Bonezegei_TM1638              | LED Drive Control                  |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_TM1638)](https://github.com/bonezegei/Bonezegei_TM1638)           |
+|  51 | Bonezegei_74HC595             | 74HC595 Driver                     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_74HC595)](https://github.com/bonezegei/Bonezegei_74HC595)         |
+|  52 | BonezegeiIoT                  | BonezegeiIoT                       |All     |[![P](https://img.shields.io/github/v/release/bonezegei/BonezegeiIoT)](https://github.com/bonezegei/BonezegeiIoT)                   |
+|  53 | Bonezegei_BME280              | BME280 / BMP280 Library            |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_BME280)](https://github.com/bonezegei/Bonezegei_BME280)           |
+|  54 | Bonezegei_MLX90614            | MLX90614 Library                   |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_MLX90614)](https://github.com/bonezegei/Bonezegei_MLX90614)       |
+|  55 | Bonezegei_Max30105            | Max30105 Library                   |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Max30105)](https://github.com/bonezegei/Bonezegei_Max30105)       |
+|  56 | Bonezegei_SHT31               | SHT31 Library                      |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_SHT31)](https://github.com/bonezegei/Bonezegei_SHT31)             |
+
 <br>
 
 ### Microcontroller Projects
