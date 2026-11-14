@@ -142,7 +142,7 @@ In traditional embedded development, any adjustment to program logic requires a 
 | Logo | Name |Details | Available|
 |------|------|--------|----------|
 |[![P](resources/app/bonezegeiSMS64.png)](https://github.com/bonezegei/Bonezegei-SMS)|<strong>Bonezegei SMS </strong>    | Bonezegei SMS is the Android application that transforms your smartphone into a versatile SMS gateway. | [Huawei_App](https://appgallery.huawei.com/app/C109326023 "Huawei App Gallerry")  |
-|[![P](resources/app/bonezegeiConnect64.png)](https://github.com/bonezegei)          |<strong>Bonezegei Connect</strong> | Bonezegei Connect is an application for Serial Debugging using android phone.                          | [Amazon_App](https://www.amazon.com/dp/B0CW17DMHP "Amazon App Store") <br> [Google Play](https://play.google.com/store/apps/details?id=com.bonezegei.connect "Google Play")  <br> [Huawei_App](https://appgallery.huawei.com/app/C110559139 "Huawei App Gallerry")|
+|[![P](resources/app/bonezegeiConnect64.png)](https://github.com/bonezegei)          |<strong>Bonezegei Connect</strong> | Bonezegei Connect is an application for Serial Debugging using android phone.                          | [Amazon_App](https://www.amazon.com/dp/B0CW17DMHP "Amazon App Store") <br> [Google Play](https://play.google.com/store/apps/details?id=com.bonezegeiconnect "Google Play")  <br> [Huawei_App](https://appgallery.huawei.com/app/C110559139 "Huawei App Gallerry")|
 
 
 
