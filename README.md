@@ -113,12 +113,6 @@ In traditional embedded development, any adjustment to program logic requires a 
 |  62 | Bonezegei_AHT30               | AHT30 Library                      |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_AHT30)](https://github.com/bonezegei/Bonezegei_AHT30)             |
 
 
-
-https://github.com/bonezegei/Bonezegei_AHT20
-https://github.com/bonezegei/Bonezegei_HTU21
-https://github.com/bonezegei/Bonezegei_AHT30
-
-
 <br>
 
 ### Microcontroller Projects
