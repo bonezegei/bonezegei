@@ -106,10 +106,17 @@ In traditional embedded development, any adjustment to program logic requires a 
 |  55 | Bonezegei_Max30105            | Max30105 Library                   |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_Max30105)](https://github.com/bonezegei/Bonezegei_Max30105)       |
 |  56 | Bonezegei_SHT31               | SHT31 Library                      |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_SHT31)](https://github.com/bonezegei/Bonezegei_SHT31)             |
 |  57 | Bonezegei_PN532               | PN532 RFID Library                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_PN532)](https://github.com/bonezegei/Bonezegei_PN532)             |
-|  58 | Bonezegei_AHT10               | AHT10 RFID Library                 |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_AHT10)](https://github.com/bonezegei/Bonezegei_AHT10)             |
-|  59 | Bonezegei_BH1750              | BH1750 RFID Library                |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_BH1750)](https://github.com/bonezegei/Bonezegei_BH1750)           |
+|  58 | Bonezegei_AHT10               | AHT10 Library                      |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_AHT10)](https://github.com/bonezegei/Bonezegei_AHT10)             |
+|  59 | Bonezegei_BH1750              | BH1750 Library                     |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_BH1750)](https://github.com/bonezegei/Bonezegei_BH1750)           |
+|  60 | Bonezegei_AHT20               | AHT20 Library                      |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_AHT20)](https://github.com/bonezegei/Bonezegei_AHT20)             |
+|  61 | Bonezegei_HTU21               | HTU21 Library                      |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_HTU21)](https://github.com/bonezegei/Bonezegei_HTU21)             |
+|  62 | Bonezegei_AHT30               | AHT30 Library                      |All     |[![P](https://img.shields.io/github/v/release/bonezegei/Bonezegei_AHT30)](https://github.com/bonezegei/Bonezegei_AHT30)             |
 
 
+
+https://github.com/bonezegei/Bonezegei_AHT20
+https://github.com/bonezegei/Bonezegei_HTU21
+https://github.com/bonezegei/Bonezegei_AHT30
 
 
 <br>
